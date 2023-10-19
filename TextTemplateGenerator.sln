@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextTemplateGenerator", "TextTemplateGenerator\TextTemplateGenerator.csproj", "{158DE922-C9EF-491C-B6FB-3049F39A7A5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateGeneratorTests", "TemplateGeneratorTests\TemplateGeneratorTests.csproj", "{720737B9-3FF4-458F-8E90-428ACC11F681}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{158DE922-C9EF-491C-B6FB-3049F39A7A5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{158DE922-C9EF-491C-B6FB-3049F39A7A5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{158DE922-C9EF-491C-B6FB-3049F39A7A5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{158DE922-C9EF-491C-B6FB-3049F39A7A5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{720737B9-3FF4-458F-8E90-428ACC11F681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{720737B9-3FF4-458F-8E90-428ACC11F681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{720737B9-3FF4-458F-8E90-428ACC11F681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{720737B9-3FF4-458F-8E90-428ACC11F681}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3A0C6AF-F931-4BAB-84E0-691F9FEDE4C9}
+	EndGlobalSection
+EndGlobal
